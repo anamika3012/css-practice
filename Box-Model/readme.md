@@ -25,10 +25,8 @@ The CSS Box Model describes how the size of elements is determined on a webpage.
 
 ## 🚀 How to Run the Project
   1. Clone this repository:
-  ```
-  git clone https://github.com/anamika3012/css-practice.git
-
-  ```
+  
+          git clone https://github.com/anamika3012/css-practice.git
   2. Navigate to project folder named Box-Model .
      
   3. Open index.html in your browser.
