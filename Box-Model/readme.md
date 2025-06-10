@@ -10,8 +10,6 @@ The CSS Box Model describes how the size of elements is determined on a webpage.
   4.  Margin – Space outside the border, separating it from other elements
   5.  Understanding and mastering the Box Model is crucial for precise layout control in web development.
 
-## 📸 Screenshot / Preview
-<img src="assign-01.png" alt="Box Model Preview" width="700" height="500"/>
 
 ## 🧑‍💻 What I Learned
   - Setting width and height of elements
