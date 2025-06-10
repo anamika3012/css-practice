@@ -11,11 +11,12 @@ The CSS Box Model describes how the size of elements is determined on a webpage.
   5.  Understanding and mastering the Box Model is crucial for precise layout control in web development.
 
 ## 📸 Screenshot / Preview
-<img src="PUT-YOUR-IMAGE-LINK-HERE" alt="Box Model Preview" width="500" />
+<img src="assign-01.png" alt="Box Model Preview" width="700" height="500"/>
 
 ## 🧑‍💻 What I Learned
   - Setting width and height of elements
   - Applying margin and padding
+  - Center aligning the contents using box-model
   - Using different border styles
   - Understanding box-sizing (content-box vs border-box)
   - How spacing affects layout
@@ -30,6 +31,6 @@ The CSS Box Model describes how the size of elements is determined on a webpage.
   git clone https://github.com/anamika3012/css-practice.git
 
   ```
-  2. Navigate to project folder named Box-model .
+  2. Navigate to project folder named Box-Model .
      
   3. Open index.html in your browser.
