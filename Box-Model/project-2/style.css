@@ -1,32 +1,35 @@
-* {
-  background-color: #2dd684;
-  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
-  text-align: left;
+*{
+    padding: 0px;
+    margin: 0px;
+    text-align: left;
 }
 
-.box {
-  height: auto;
-  width: auto;
-  margin-left: 720px;
-  margin-top: 250px;
+.main-container{
+    border: 2px solid rgb(222, 221, 221);
+    border-radius: 20px;
+    height: auto;
+    width: 25%;
+    margin-top: 250px;
+    margin-left: 420px;
 }
 
-#heading {
-  font-size: 72px;
+.image{
+    width: 100%;
+    border-radius: 20px 20px 0px 0px;
 }
 
-#description {
-  font-size: 24px;
+.content{
+        padding: 30px;
 }
 
-.share-button {
-  background-color: rgb(221, 220, 220);
-  color: black;
-  height: 70px;
-  width: 320px;
-  font-size: 30px;
-  text-align: center;
-  font-weight: bold;
-  border: none;
-  border-radius: 35px;
+.view-button{
+    background-color: rgb(255, 255, 255);
+    color:rgb(15, 80, 209);
+    border: 2px solid rgb(222, 221, 221);
+    border-radius: 10px;
+    height: 50px;
+    width: 200px;
+    font-size: 23px;
+    text-align: center;
+    border-radius: 10px;
 }
