@@ -1,0 +1,107 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+
+.card {
+  width: 65em;
+  border: 1px solid rgb(194, 193, 193);
+  border-radius: 20px;
+  margin: 20px auto;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  position: relative;
+}
+
+.card-image {
+  width: 100%;
+  border-radius: 20px;
+  filter: brightness(50%);
+}
+
+.content {
+  color: white;
+  position: absolute;
+  top: 20%;
+  left: 25%;
+  text-align: center;
+  padding-right: 120px;
+}
+
+#title {
+  font-family: "Knewave", system-ui;
+  font-weight: 400;
+  font-size: 79px;
+  margin: 10px;
+  font-style: normal;
+}
+
+#description {
+  font-weight: 400;
+  font-size: 30px;
+  margin: 10px;
+  font-style: normal;
+}
+
+.search-container {
+  position: absolute;
+  top: 50%;
+  left: 5%;
+  width: 950px;
+  height: 60px;
+  background: white;
+  border-radius: 30px;
+  font-size: 20px;
+  box-shadow: 0 4px 8px rgba(139, 139, 139, 0.2), 0 6px 20px rgba(0, 0, 0, 0.19);
+}
+
+.location {
+  position: absolute;
+  top: 50%;
+  left: 20px;
+  transform: translateY(-50%);
+}
+
+.location-input {
+  border: none;
+  outline: none;
+  font-size: 18px;
+  padding-left: 10px;
+  width: 140px;
+}
+
+.dropdown {
+  margin-left: -5px;
+  font-size: 14px;
+}
+
+.divider {
+  position: absolute;
+  top: 15px;
+  left: 220px;
+  width: 1px;
+  height: 30px;
+  background: #ccc;
+}
+
+.search-input {
+  position: absolute;
+  top: 50%;
+  left: 240px;
+  transform: translateY(-50%);
+  width: 600px;
+}
+
+.search-icon {
+  position: absolute;
+  top: 50%;
+  left: 0;
+  transform: translateY(-50%);
+}
+
+.search-section-input {
+  padding: 10px 10px 10px 35px;
+  width: 100%;
+  border: none;
+  outline: none;
+  font-size: 16px;
+}
