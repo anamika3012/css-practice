@@ -1,8 +1,8 @@
-# 📌 CSS Position Property Project
+# CSS Position Property Project
 This project demonstrates the use of the CSS position property, showcasing how different positioning values affect the placement of elements on a webpage.
 
 
-## 🌐 What is the Position Property?
+## What is the Position Property?
 The position property in CSS is used to specify how an element is positioned in the document. It determines the element’s place in the normal flow and how it behaves in relation to its surroundings.
 The main position values are:
 
@@ -13,7 +13,7 @@ The main position values are:
   - Sticky – Scrolls with the page until a defined threshold is met
 
 
-## 🧑‍💻 What I Learned
+##  What I Learned
   - How each position value works
   - Using top, bottom, left, and right with positioned elements
   - Layering elements using z-index and using transform property
@@ -21,7 +21,7 @@ The main position values are:
   - Absolute positioning inside relatively positioned containers
 
 
-## 📁 Files Included
+##  Files Included
   - index.html – HTML structure for demo
   - style.css – CSS styles demonstrating various position values
 
