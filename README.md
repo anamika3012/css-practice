@@ -1,7 +1,7 @@
-#  🎨CSS Practice
+#  CSS Practice
 This repository is a structured collection of  exercises designed to practice and brush-up key CSS concepts like box-Model , felxbox and grids.
 
-## 📚 Topics Covered
+##  Topics Covered
 Each topic has its own folder with relevant code, explanations, and a dedicated ``` Readme.md ```.
 
 <table>
@@ -18,7 +18,7 @@ Each topic has its own folder with relevant code, explanations, and a dedicated 
   </tr>
 </table>
 
-## 🚀 How to Use
+##  How to Use
   1. Clone the repository:
      
          git clone https://github.com/anamika3012/css-practice.git
