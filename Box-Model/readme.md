@@ -19,14 +19,4 @@ The CSS Box Model describes how the size of elements is determined on a webpage.
   - Understanding box-sizing (content-box vs border-box)
   - How spacing affects layout
 
-##  Files Included
-  - index.html – HTML structure
-  - style.css – CSS styles demonstrating the box model
 
-##  How to Run the Project
-  1. Clone this repository:
-  
-          git clone https://github.com/anamika3012/css-practice.git
-  2. Navigate to project folder named Box-Model .
-     
-  3. Open index.html in your browser.
