@@ -18,11 +18,4 @@ Each topic has its own folder with relevant code, explanations, and a dedicated 
   </tr>
 </table>
 
-##  How to Use
-  1. Clone the repository:
-     
-         git clone https://github.com/anamika3012/css-practice.git
-  2.  Navigate into any topic folder:
 
-          cd css-practice/Box-Model
-  3. Open the index.html file in your browser to explore the demo and code.
