@@ -16,6 +16,10 @@ Each topic has its own folder with relevant code, explanations, and a dedicated 
     <td>02</td>
     <td><a href="position-property"> Position property</a> </td>
   </tr>
+  <tr>
+    <td>03</td>
+    <td><a href="flexbox-media-queries"> Flexbox and Media Queries</td>
+  </tr>
 </table>
 
 
