@@ -25,5 +25,19 @@ Together, these tools are essential for building modern, responsive web interfac
 - Adjusting layout for mobile, tablet, and desktop views
 - Hiding content and changing font sizes/images responsively
 
-## Screenshots / Previews
+## Screenshots / Preview
+
+ ### Desktop View
+ <img src="screenshots/ss-1.png" /><br><br>
+ <img src="screenshots/ss-2.png" /><br><br>
+ <img src="screenshots/ss-3.png" /><br><br>
+
+ ### Tablet View
+ <img src="screenshots/ss-5.png" /><br><br>
+ <img src="screenshots/ss-6.png" /><br><br>
+
+ ### Mobile View
+ <img src="screenshots/ss-4.png" /><br><br>
+
+ ##
 
