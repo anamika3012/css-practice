@@ -259,6 +259,12 @@
   .left-arrow-icon,.right-arrow-icon{
     display: none;
   }
+  .place-section{
+    overflow-x: scroll;
+  }
+  .place-section::-webkit-scrollbar {
+  display: none; 
+  }
 }
 
 /* mobile */
@@ -299,6 +305,12 @@
   }
   .card {
     width: 200px;
+  }
+  .place-section{
+    overflow-x: scroll;
+  }
+  .place-section::-webkit-scrollbar {
+  display: none; 
   }
 }
 
