@@ -21,19 +21,6 @@ The main position values are:
   - Absolute positioning inside relatively positioned containers
 
 
-##  Files Included
-  - index.html – HTML structure for demo
-  - style.css – CSS styles demonstrating various position values
-
-
-## How to Run the Project
-  1. Clone this repository:
-
-         git clone https://github.com/anamika3012/css-practice.git
-  2. Navigate to the project folder named position-property
-
-          cd css-practice/position-property
-  3. Open index.html in your browser.
 
 
 
